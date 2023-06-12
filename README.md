@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Personal media:
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iw90) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ingridwagner/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/indyabrada/) 
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/iw90) 
+
+
 <!--
 **ingrid-w/ingrid-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
